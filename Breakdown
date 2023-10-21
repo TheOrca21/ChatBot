@@ -1,0 +1,6 @@
+1] Screen. (create)
+2] Ball. (create and make it move)
+3] Paddles. (create, move, create another symmetrically)
+4] Detect Collision with Walls and Bounce.
+5] Detect Collision with Paddles.
+4] Score-Board.
